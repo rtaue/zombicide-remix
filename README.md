@@ -27,4 +27,4 @@ Unity version: 2017.3.1f1
 Link to download: https://drive.google.com/open?id=1lJY3wboN-CMNZ4E7ZINBCJlfIsRNRfqv
 
 ## Authors
-- **Rafael Taue** - Game Designer and Programmer - [GitHub](https://github.com/rtaue) - [Porfolio](https://rtaue.carbonmade.com/) - [LinkedIn](https://www.linkedin.com/in/rtaue/)
+- **Rafael Taue** - Game Designer and Programmer - [GitHub](https://github.com/rtaue) - [Porfolio](https://rtaue.com) - [LinkedIn](https://www.linkedin.com/in/rtaue/)
